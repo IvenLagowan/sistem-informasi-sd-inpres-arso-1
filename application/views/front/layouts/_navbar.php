@@ -24,13 +24,13 @@
 				</li>
 				<li class="nav-item dropdown <?php if($title == 'Administrasi Perkantoran' || $title == 'Akutansi' || $title == 'Pemasaran') echo "active"; ?>">
 				<a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-					Jurusan
+					Fasilitas Ruangan Sekolah
 				</a>
 				<div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-					<a class="dropdown-item" href="<?= base_url('jurusan/ap') ?>">Ilmu Pengetahuan Alam</a>
-					<a class="dropdown-item" href="<?= base_url('jurusan/ak') ?>">Ilmu Pengetahuan Sosial</a>
-					<a class="dropdown-item" href="<?= base_url('jurusan/pm') ?>">Bahasa</a>
-				</div>
+					<a class="dropdown-item" href="<?= base_url('jurusan/ap') ?>">FOTO RUANG KELAS</a>
+					<a class="dropdown-item" href="<?= base_url('jurusan/ak') ?>">KANTOR SEKOLAH</a>
+					<a class="dropdown-item" href="<?= base_url('jurusan/pm') ?>">PERPUSTAKAAN</a>
+		
 				</li>
 				<li class="nav-item <?php if($title == 'Tata Tertib') echo "active"; ?>">
 				<a class="nav-link" href="<?= base_url('tatatertib') ?>">Tata Tertib</a>

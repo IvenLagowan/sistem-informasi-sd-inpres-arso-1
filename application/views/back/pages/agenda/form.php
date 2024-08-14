@@ -1,7 +1,7 @@
 <div class="container">
 	<div class="row mb-4">
 		<div class="col">
-			<h3>Form Update Agenda Sekolah</h3>
+			<h3>Form Update Lokasi Sekolah</h3>
 		</div>
 	</div>
 

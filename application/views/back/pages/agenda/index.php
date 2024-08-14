@@ -1,7 +1,7 @@
 <div class="container">
 	<div class="row">
 		<div class="col">
-			<h2>Agenda Sekolah</h2>
+			<h2>Lokasi Sekolah</h2>
 		</div>
 	</div>
 
